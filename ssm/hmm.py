@@ -22,7 +22,7 @@ __all__ = ['HMM', 'HSMM']
 
 
 class HMM(object):
-    print('test20')
+    print('test30')
     """
     Base class for hidden Markov models.
 
