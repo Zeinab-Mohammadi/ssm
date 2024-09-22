@@ -1,4 +1,0 @@
-[submodule "ssm"]
-    path = ssm
-    url = https://github.com/Zeinab-Mohammadi/ssm.git
-    branch = NU_project
